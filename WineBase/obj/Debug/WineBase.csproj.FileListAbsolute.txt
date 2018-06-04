@@ -1,0 +1,28 @@
+C:\Users\Carecopter\AppData\Local\Temporary Projects\WineBase\bin\Debug\WineBase.exe.config
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\bin\Debug\WineBase.exe.config
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\bin\Debug\WineBase.exe
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\bin\Debug\WineBase.pdb
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\obj\Debug\WineBase.csprojResolveAssemblyReference.cache
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\obj\Debug\WineBase.frmWineBase.resources
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\obj\Debug\WineBase.Properties.Resources.resources
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\obj\Debug\WineBase.csproj.GenerateResource.Cache
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\obj\Debug\WineBase.exe
+C:\Users\Carecopter\Documents\Visual Studio 2015\Projects\WineBase\WineBase\obj\Debug\WineBase.pdb
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\bin\Debug\WineBase.exe.config
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\obj\Debug\WineBase.exe
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\obj\Debug\WineBase.pdb
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\bin\Debug\WineBase.exe
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\bin\Debug\WineBase.pdb
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\obj\Debug\WineBase.csprojResolveAssemblyReference.cache
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\obj\Debug\WineBase.frmWineBase.resources
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\obj\Debug\WineBase.Properties.Resources.resources
+C:\Users\Carecopter\Desktop\DATABASEPROSJEKT\WineBase\obj\Debug\WineBase.csproj.GenerateResource.Cache
+C:\Users\ShingWai\Desktop\WineBase\bin\Debug\WineBase.exe.config
+C:\Users\ShingWai\Desktop\WineBase\obj\Debug\WineBase.exe
+C:\Users\ShingWai\Desktop\WineBase\obj\Debug\WineBase.pdb
+C:\Users\ShingWai\Desktop\WineBase\bin\Debug\WineBase.exe
+C:\Users\ShingWai\Desktop\WineBase\bin\Debug\WineBase.pdb
+C:\Users\ShingWai\Desktop\WineBase\obj\Debug\WineBase.csprojResolveAssemblyReference.cache
+C:\Users\ShingWai\Desktop\WineBase\obj\Debug\WineBase.frmWineBase.resources
+C:\Users\ShingWai\Desktop\WineBase\obj\Debug\WineBase.Properties.Resources.resources
+C:\Users\ShingWai\Desktop\WineBase\obj\Debug\WineBase.csproj.GenerateResource.Cache
